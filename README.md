@@ -2,7 +2,7 @@
 
 ## Description
 
-Login and Dashboard Admin page project using reactjs, authentication using flag data checking saved in redux toolkit store.
+Login page and Admin dashboard page using reactjs, use redux toolkit for authentication when login
 
 ## Installation
 
