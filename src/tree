@@ -1,0 +1,18 @@
+Folder PATH listing
+Volume serial number is 32CB-D841
+C:.
+|   tree
+|   
++---assets
+|   +---css
+|   \---fonts
++---constants
++---controllers
+|   +---actions
+|   +---reducers
+|   \---services
++---helpers
+\---views
+    +---components
+    +---layouts
+    \---pages
